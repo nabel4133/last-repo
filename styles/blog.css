@@ -1,0 +1,14 @@
+nav > ul > li{
+ font-size: larger;  
+ /* display: none;  */
+ /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+ margin: 2px;
+}
+
+nav li > a{
+    text-decoration: none
+    ;
+}
+footer{
+    font-size: 5px;
+}

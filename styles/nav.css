@@ -1,0 +1,21 @@
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 15px;
+    padding: 6px;
+}
+nav li a{
+    text-decoration: none;
+    color:black
+}
+nav li:hover{
+    background-color: chartreuse;
+}
+nav li:hover> .dropdown{
+background-color: blueviolet;
+}
+nav li:hover> .hello{
+    background-color: chartreuse;
+}
